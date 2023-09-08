@@ -18,7 +18,7 @@ dependencies:
   web_socket_channel: ^2.2.0
   uuid: ^3.0.6
   logging: ^1.0.2
-  dartdoc: ^6.2.2
+  dartdoc: ^5.1.0
 
 dev_dependencies:
   flutter_test:
